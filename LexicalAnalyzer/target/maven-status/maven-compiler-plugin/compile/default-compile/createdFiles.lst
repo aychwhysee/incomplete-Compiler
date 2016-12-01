@@ -1,0 +1,5 @@
+errors\LexicalError.class
+lex\Token$OperatorType.class
+lex\Tokenizer.class
+lex\CharStream.class
+lex\Token.class
